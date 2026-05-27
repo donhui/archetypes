@@ -1,0 +1,27 @@
+global-configuration/src/main/resources/archetype-resources/pom.xml
+  s_6b927fa686427f::t_ba7c9f28665ea7 14,35
+common-files/.github/workflows/cd.yaml
+  s_6b927fa686427f::t_ba7c9f28665ea7 1-54
+empty-plugin/src/main/resources/archetype-resources/pom.xml
+  s_6b927fa686427f::t_ba7c9f28665ea7 14,35
+hello-world/src/main/resources/archetype-resources/pom.xml
+  s_6b927fa686427f::t_ba7c9f28665ea7 14,35
+common-files/.mvn/maven.config
+  s_6b927fa686427f::t_ba7c9f28665ea7 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "396d82e25c188a865f824dffcfe36d2a75c4991f",
+  "prompts": {},
+  "sessions": {
+    "s_6b927fa686427f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e677d-5b05-7ef3-ae91-72b9c1ef8a5a",
+        "model": "gpt-5.4"
+      },
+      "human_author": null
+    }
+  }
+}
